@@ -1,0 +1,14 @@
+checksum = 8389586.499227
+blur time = 0.636 s
+
+ Performance counter stats for './bin/O3_opt 40':
+
+       809,300,337      dTLB-loads                                                            
+           717,847      dTLB-load-misses                                                      
+
+       0.732727758 seconds time elapsed
+
+       0.684767000 seconds user
+       0.043666000 seconds sys
+
+

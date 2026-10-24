@@ -1,0 +1,14 @@
+checksum = 8389586.499227
+blur time = 53.100 s
+
+ Performance counter stats for './bin/O0 40':
+
+    66,248,907,253      dTLB-loads                                                            
+       673,221,723      dTLB-load-misses                                                      
+
+      53.297994267 seconds time elapsed
+
+      53.044173000 seconds user
+       0.047724000 seconds sys
+
+

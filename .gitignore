@@ -1,0 +1,11 @@
+bin/
+blur
+
+*.data
+*.data.old
+*.perf
+
+.vscode/
+.~lock.*#
+*~
+*.o
